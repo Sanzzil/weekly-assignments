@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web Page</title>
+</head>
+<body>
+	<h2>venice</h2>
+	<img src="image1.jpg" alt="venice" border: 5px/>
+	<h2>nature</h2>
+	<img src="image2.jpg" alt="nature" style="width="100px"/>
+	<h2 align="right">sea</h2>
+	<img src="image3.webp" alt="sea" align="right" width="100px" />
+	<br/>
+	<h2>Butterfly</h2>
+	<img src="image4.png" alt="Butterfly" hspace="50px" vspace="50px"/>
+
+</body>
+</html> 
